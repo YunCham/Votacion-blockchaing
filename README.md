@@ -1,10 +1,11 @@
 # Sistema de Votación Electrónica usando Blockchain
+     ### Montoya Jhonn
 
 Este proyecto es una aplicación web que permite a los usuarios votar por sus candidatos preferidos en una elección. El proyecto usa MongoDB para la gestión de la base de datos y tiene tres colecciones para candidatos, elecciones y usuarios.
 
 ## Instalación y Configuración 🔧
 
-### MongoDB 🍃
+### Base de datos
 Para crear las colecciones necesarias en la base de datos, consulta los archivos en la carpeta `/server/Models` después de ingresar la URL en el archivo `/server/.env` línea 2.
 
 ### Verificación de Correo Electrónico de Terceros 📧
